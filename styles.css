@@ -58,9 +58,9 @@ body {
 
 .heart {
     position: absolute;
-    font-size: 30px;
-    color: red;
-    animation: floatUp 2s ease-out forwards;
+    width: 30px;
+    height: auto;
+    animation: floatUp 4s ease-out forwards;
 }
 
 @keyframes floatUp {
