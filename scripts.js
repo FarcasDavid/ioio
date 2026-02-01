@@ -10,7 +10,7 @@ let sadGifs = [
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa291eGlibGU4aDIzczJxMXRpYzM3NmdteHd5YzVnajRhNGdxdHQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFa05KbZowXiEIyRse/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkN293eDI0bmFhNXIyZmdkZGZrOWs5a2l6dDNhaGt6cW12eWhsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12Bpme5pTzGmg8/giphy.gif",
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpxdmJub3F2ZzQydDhieWtzbjJyaTd0aWVjOGVqZ3hzemk1OGd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLkIthus9lEwoe7PRx/giphy.gif",
-    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5reWhrY3A2bnRzMHpjcnQ3endsYWYxbnQwMGQyOW5haWpkNXkydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKPHA0rO5YpsC7f67g/giphy.gif",
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2aGcwdXhrdGxncmY1emp6Y3lmcnBnMHEyaXNscTZhZmxuM3BydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gDSyjaOPwZ4A/giphy.gif",
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ6MW11bHQ1YWZ1d3FlY3luYmNnZXl3NXFveDduZDViYTIxbGY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1Tf1eOo6976zuGv3C/giphy.gif",
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mM3lrand3NWltdG1sM3VsdDZsM2wxZ2hyOHA2aXlhdm9tbXFqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi4ec226vjAkehSLk0/giphy.gif",
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd6c3Z0aGZraWw1M3IwaWd4dmx1azk4eGJkYTh3ZGN3cjJmN2d4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7AzEXdIb1wyCTWJntb/giphy.gif",
