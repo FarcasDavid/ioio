@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
     background-color: #ffebf0;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .container {
